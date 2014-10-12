@@ -5,7 +5,7 @@ This repository serves as a way to report outdated information about Perl 6.
 
 The primary goals are to provide a place for people to:
 
-* report outdated information about Perl 6 by creating [issues](/perl6/ye-olde/issues)
+* report outdated information about Perl 6 by creating [issues](https://github.com/perl6/ye-olde/issues)
 
 * provide links to more accurate information by commenting on issues 
 
@@ -41,7 +41,7 @@ Likely resolutions:
 
 * The owner of the page deletes the outdated information: close the issue.
 
-* The owner of the page adds a note to the page point out that it's outou with a link to the corresponding [issue](/perl6/ye-olde/issues): close the issue.
+* The owner of the page adds a note to the page point out that it's outdated with a link to the corresponding [issue](https://github.com/perl6/ye-olde/issues): close the issue.
 
 * The owner of the page can't be determined, or is unresponsive or unhelpful: leave the issue open.
 

@@ -34,7 +34,7 @@ Likely resolutions:
 
 * The owner of the page deletes the out-dated information: close the issue.
 
-* The owner of the page adds a note to the article pointing to the corresponding [issues](/perl6/ye-olde/issues): close the issue.
+* The owner of the page adds a note to the article pointing to the corresponding [issue](/perl6/ye-olde/issues): close the issue.
 
 * The owner of the page is unresponsive or unhelpful: leave the issue open.
 
